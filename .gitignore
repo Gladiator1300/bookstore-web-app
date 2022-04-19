@@ -28,4 +28,6 @@
 # other binaries
 **/.bash_history
 
-
+# terraform
+**/.terraform
+**/.terraform*
